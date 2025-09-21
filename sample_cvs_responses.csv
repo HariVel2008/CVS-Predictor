@@ -1,0 +1,11 @@
+timestamp,consent,age_group,age,sex,grade_level,hours_academic,hours_non_academic,devices,break_frequency,screen_tools,screen_tools_details,eye_strain,blurry_vision,dry_eyes,headaches,neck_pain,symptoms_worse,lighting,posture,twenty_rule,eye_level_screen,visited_specialist,impact_schoolwork,mitigation_measures,school_support_opinion
+2025-09-03 10:00,Yes,13-18,15,Male,10,4,2,Laptop,2,Yes,Blue light filter,Yes,No,Yes,No,Yes,Yes,Artificial,Often,Yes,Yes,No,No,Regular breaks,Yes
+2025-09-03 10:05,Yes,13-18,17,Female,12,6,3,Phone,1,No,,Yes,Yes,No,Yes,No,Yes,Natural,Sometimes,No,No,Yes,Yes,Reduce screen brightness,Yes
+2025-09-03 10:10,Yes,13-18,16,Male,11,3,4,Tablet,3,Yes,Adjusted brightness,No,No,No,No,No,No,Artificial,Oftentimes,Yes,Yes,No,No,Take breaks,Yes
+2025-09-03 10:15,Yes,13-18,14,Female,9,5,5,Desktop,0,No,,Yes,Yes,Yes,Yes,Yes,Yes,Natural,Rarely,No,No,Yes,Yes,Stretching exercises,Yes
+2025-09-03 10:20,Yes,13-18,18,Male,12,7,6,Phone,1,Yes,Blue light glasses,Yes,No,Yes,Yes,Yes,Yes,Artificial,Often,Yes,No,No,Yes,Use blue light filter,Yes
+2025-09-03 10:25,Yes,13-18,15,Female,10,2,1,Laptop,4,Yes,Anti-glare screen,No,No,No,No,No,No,Natural,Always,Yes,Yes,No,No,Take breaks every 20 min,Yes
+2025-09-03 10:30,Yes,13-18,16,Male,11,8,5,Tablet,0,No,,Yes,Yes,Yes,Yes,Yes,Yes,Artificial,Rarely,No,No,Yes,Yes,Adjust brightness,Yes
+2025-09-03 10:35,Yes,13-18,17,Female,12,6,4,Laptop,2,Yes,Blue light filter,No,Yes,No,Yes,No,Yes,Natural,Often,Yes,Yes,No,Yes,Regular breaks,Yes
+2025-09-03 10:40,Yes,13-18,15,Male,9,3,2,Phone,1,No,,No,No,No,No,No,No,Artificial,Sometimes,Yes,Yes,No,No,Limit phone use,Yes
+2025-09-03 10:45,Yes,13-18,18,Female,12,9,7,Laptop,0,No,,Yes,Yes,Yes,Yes,Yes,Yes,Natural,Never,No,No,Yes,Yes,Adjust chair height,Yes
